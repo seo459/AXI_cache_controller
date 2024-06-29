@@ -6,8 +6,9 @@ It aimed to hierarchical structure of SRAM and DRAM, including burst read operat
 
 - READ (burst mode)
 
-![image](https://github.com/seo459/AXI_cache_controller/assets/72679290/e00163c8-5fed-4779-9f71-d298904d1951)
+![image](https://github.com/seo459/AXI_cache_controller/assets/72679290/d9345bbe-fa0b-4e5c-bdf8-71aaab63c504)
 
 - WRITE
 
-![image](https://github.com/seo459/AXI_cache_controller/assets/72679290/026fa998-d296-4b0d-985f-b63c7b8047d6)
+![image](https://github.com/seo459/AXI_cache_controller/assets/72679290/61ea7349-f266-46b0-b12f-98194e92dfec)
+
